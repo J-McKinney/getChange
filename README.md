@@ -41,4 +41,4 @@ We used the following libraries to make the game:
 
 ----
 
-The GitHub Octocat belongs of course to GitHub.
+The GitHub Octocat belongs of course to GitHub.# getChange
